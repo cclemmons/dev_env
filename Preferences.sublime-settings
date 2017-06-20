@@ -1,0 +1,44 @@
+{
+	"added_words":
+	[
+		"deontology"
+	],
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 5000,
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"Clang-Complete",
+		"PyDOC"
+	],
+	"ignored_words":
+	[
+		"Clemmons",
+		"deontological"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		72,
+		79,
+		120
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"sidebar_xsmall": true,
+	"tab_size": 2,
+	"theme": "Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true
+}
